@@ -19,11 +19,33 @@ Open the `index.html` file in your browser to view the website.
 
 The website consists of the following pages:
 
+
+
+
+
+
+
 - **Home:** The landing page of the website.
+
+- ![Home Page](https://github.com/Amatullah-53/Photo_Gallery/blob/my-new-branch/WhatsApp%20Image%202024-04-28%20at%2016.55.41_516b1c62.jpg)
+
+- 
 - **About Us:** Information about Ray Matthews and his photography.
+
+![About Us Page](https://github.com/Amatullah-53/Photo_Gallery/blob/my-new-branch/WhatsApp%20Image%202024-04-28%20at%2016.56.37_e38130c5.jpg)
+- 
 - **Contact Us:** A page with a contact form to get in touch with Ray Matthews.
+
+- ![Contact Us Page](https://github.com/Amatullah-53/Photo_Gallery/blob/my-new-branch/WhatsApp%20Image%202024-04-28%20at%2016.56.52_401f2b07.jpg)
+
+- 
 - **Gallery:** Displays a collection of photography work with a like button functionality.
+- 
+![Gallery Page](https://github.com/Amatullah-53/Photo_Gallery/blob/my-new-branch/WhatsApp%20Image%202024-04-28%20at%2016.56.06_8d1b0186.jpg)
+- 
 - **Blog:** A page to read articles and updates related to photography.
+
+- ![Blog Page](https://github.com/Amatullah-53/Photo_Gallery/blob/my-new-branch/WhatsApp%20Image%202024-04-28%20at%2016.56.21_74b3d5d6.jpg)
 
 ## Features
 
