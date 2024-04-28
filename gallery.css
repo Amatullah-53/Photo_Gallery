@@ -1,0 +1,327 @@
+body,html
+{
+    width: 100%;
+    height: 100%;
+    background-image: url(Images/watercolor.jpeg);
+    background-size:cover;
+  
+    
+}
+.Box1
+{
+    width: 100%;
+    height: 10%;
+    background-color:rgb(9, 117, 117);
+    color: bisque;
+    
+   float:left ;
+}
+
+
+      .box9
+      {
+        height:50%;
+        width:30%;
+        float:left;
+        margin-top:3% ;
+        margin-left: 2.5%;
+        border-radius:5cap;
+        
+        background-image:url(Images/sea-turtle-swims-under-water-on-the-background-of-2023-11-27-04-53-50-utc.jpg);
+        background-size: cover;
+
+
+   
+        
+        
+      }
+      .boxlike9
+      {
+        height: 10%;
+        width: 30%;
+        float: left;
+        
+        margin-left: 2.5%;
+      }
+
+      .box10
+      {
+        height:50%;
+        width:30%;
+        float:left;
+        margin-top:3% ;
+        margin-left: 2.5%;
+        border-radius:5cap;
+        
+        background-image:url(Images/male-surfer-riding-wave-on-surf-board-in-ocean-2023-11-27-04-53-50-utc.jpg);
+        background-size: cover;
+
+
+   
+        
+        
+      }
+      .boxlike10
+      {
+        height: 10%;
+        width: 30%;
+        float: left;
+       
+        margin-left: 2.5%;
+      }
+
+      .box11
+      {
+        height:50%;
+        width:30%;
+        float:left;
+        margin-top:3% ;
+        margin-left: 2.5%;
+        border-radius:5cap;
+        
+        background-image:url(Images/gull-near-the-sea-2023-11-27-05-02-31-utc.jpg);
+        background-size: cover;
+
+
+   
+        
+        
+      }
+      .boxlike11
+      {
+        height: 10%;
+        width: 30%;
+        float: left;
+        
+        margin-left: 2.5%;
+      }
+
+
+      .box12
+      {
+        height:50%;
+        width:30%;
+        float:left;
+        margin-top:3% ;
+        margin-left: 2.5%;
+        border-radius:5cap;
+        
+        background-image:url(Images/anemone-fish-clown-fish-underwater-photo-2023-11-27-05-37-23-utc.jpg);
+        background-size: cover;
+
+
+   
+        
+        
+      }
+      .boxlike12
+      {
+        height: 10%;
+        width: 30%;
+        float: left;
+        
+        margin-left: 2.5%;
+      }
+
+      .box13
+      {
+        height:50%;
+        width:30%;
+        float:left;
+        margin-top:3% ;
+        margin-left: 2.5%;
+        border-radius:5cap;
+        
+        background-image:url(Images/seabird-fishing-in-ocean-while-the-tourists-walk-o-2023-11-27-05-09-59-utc.jpg);
+        background-size: cover;
+
+
+   
+        
+        
+      }
+      .boxlike13
+      {
+        height: 10%;
+        width: 30%;
+        float: left;
+       
+        margin-left: 2.5%;
+      }
+
+      .box14
+      {
+        height:50%;
+        width:30%;
+        float:left;
+        margin-top:3% ;
+        margin-left: 2.5%;
+        border-radius:5cap;
+        
+        background-image:url(Images/giant-sea-turtle-close-up-red-sea-egypt-2023-11-27-04-53-05-utc.jpg);
+        background-size: cover;
+
+
+   
+        
+        
+      }
+      .boxlike14
+      {
+        height: 10%;
+        width: 30%;
+        float: left;
+        
+        margin-left: 2.5%;
+      }
+
+      
+
+      
+      .Box4
+{
+    width:8%;
+    height:70% ;
+    box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.5);
+
+    margin-top: 1%;
+    font-family: Arial, sans-serif;
+    margin-right: 3%;
+   float:right;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-style: italic;
+    background-color: azure;
+    color: rgb(5, 70, 48);
+
+    border-radius: 5px;
+   }
+
+      .Box4 a {
+        text-decoration: none;  /* Removes the underline */
+        color: rgb(3, 61, 73);         /* Changes the color, example here is a shade of orange */
+    }
+    
+    .Box4:hover {
+        background-color: lightgoldenrodyellow; /* New background color on hover */
+    }
+    
+       .Box5
+    {
+        width:8%;
+        height:70% ;
+        
+        margin-top: 1%;
+        box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.5);
+        
+        margin-right: 3%;
+       float:right;
+       font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+       font-style: italic;
+        background-color: azure;
+        color: rgb(5, 70, 48);
+    
+        border-radius: 5px;
+       }
+    
+       .Box5 a {
+        text-decoration: none;  /* Removes the underline */
+        color: rgb(3, 61, 73);         /* Changes the color, example here is a shade of orange */
+    }
+    
+    .Box5:hover {
+        background-color: lightgoldenrodyellow; /* New background color on hover */
+    }
+    
+       .Box6
+    {
+        width:8%;
+        height:70% ;
+        
+        margin-top: 1%;
+    
+        box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.5);
+        margin-right: 3%;
+       float:right;
+       font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+       font-style: italic;
+        background-color: azure;
+        color: rgb(5, 70, 48);
+    
+        border-radius: 5px;
+       }
+       .Box6 a {
+        text-decoration: none;  /* Removes the underline */
+        color: rgb(3, 61, 73);         /* Changes the color, example here is a shade of orange */
+    }
+    
+    .Box6:hover {
+        background-color: lightgoldenrodyellow; /* New background color on hover */
+    }
+    
+       .Box7
+    {
+        width:8%;
+        height:70% ;
+        
+        margin-top: 1%;
+    
+        box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.5);
+        margin-right: 3%;
+       float:right;
+       font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+       font-style: italic;
+        background-color: azure;
+        color: rgb(5, 70, 48);
+        
+        border-radius: 5px;
+       }
+       .Box7 a {
+        text-decoration: none;  /* Removes the underline */
+        color: rgb(3, 61, 73);         /* Changes the color, example here is a shade of orange */
+    }
+    
+    .Box7:hover {
+        background-color: lightgoldenrodyellow; /* New background color on hover */
+    }
+    
+       .Box8
+       {
+           width:8%;
+           height:70% ;
+           
+           margin-top: 1%;
+       
+           box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.5);
+           margin-right: 3%;
+          float:right;
+           font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+           font-style: italic;
+           background-color: azure;
+           color: rgb(5, 70, 48);
+           transition: background-color 0.3s ease;
+           border-radius: 5px;
+          }
+    
+        
+        .Box8:hover {
+            background-color: lightgoldenrodyellow; /* New background color on hover */
+        }
+        
+        .Box8 a {
+            /* Styles for your link */
+            text-decoration: none; /* Removes underline from link */
+            color: currentColor; /* Inherits text color from parent */
+        }
+    
+        .Boxhead
+            {
+                
+                    width:30%;
+                    height:70% ;
+                    
+               
+                    text-shadow: 5px 5px 2px rgb(72, 72, 2);
+                    color: bisque;
+                    margin-right: 3%;
+                   float:right;
+             }

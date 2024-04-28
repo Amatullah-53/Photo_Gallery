@@ -1,0 +1,219 @@
+body,html
+{
+    width: 100%;
+    height: 100%;
+    background-image: url(Images/ocean\ rm.jpeg);
+    background-size: cover;
+}
+.Box1
+{
+    width: 100%;
+    height: 10%;
+    background-color:rgb(9, 117, 117);
+    color: bisque;
+    text-shadow: 5cap;
+    text-decoration: solid;
+    box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.5);
+    
+   float:left ;
+}
+
+.Box4
+{
+    width:8%;
+    height:70% ;
+    box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.5);
+
+    margin-top: 1%;
+    font-family: Arial, sans-serif;
+    margin-right: 3%;
+   float:right;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-style: italic;
+    background-color: azure;
+    color: rgb(5, 70, 48);
+
+    border-radius: 5px;
+   }
+
+   .Box4 a {
+    text-decoration: none;  /* Removes the underline */
+    color: rgb(3, 61, 73);         /* Changes the color, example here is a shade of orange */
+}
+
+.Box4:hover {
+    background-color: lightgoldenrodyellow; /* New background color on hover */
+}
+
+   .Box5
+{
+    width:8%;
+    height:70% ;
+    
+    margin-top: 1%;
+    box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.5);
+    
+    margin-right: 3%;
+   float:right;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-style: italic;
+    background-color: azure;
+    color: rgb(5, 70, 48);
+
+    border-radius: 5px;
+   }
+
+   .Box5 a {
+    text-decoration: none;  /* Removes the underline */
+    color: rgb(3, 61, 73);         /* Changes the color, example here is a shade of orange */
+}
+
+.Box5:hover {
+    background-color: lightgoldenrodyellow; /* New background color on hover */
+}
+
+   .Box6
+{
+    width:8%;
+    height:70% ;
+    
+    margin-top: 1%;
+
+    box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.5);
+    margin-right: 3%;
+   float:right;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-style: italic;
+    background-color: azure;
+    color: rgb(5, 70, 48);
+
+    border-radius: 5px;
+   }
+   .Box6 a {
+    text-decoration: none;  /* Removes the underline */
+    color: rgb(3, 61, 73);         /* Changes the color, example here is a shade of orange */
+}
+
+.Box6:hover {
+    background-color: lightgoldenrodyellow; /* New background color on hover */
+}
+
+   .Box7
+{
+    width:8%;
+    height:70% ;
+    
+    margin-top: 1%;
+
+    box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.5);
+    margin-right: 3%;
+   float:right;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-style: italic;
+    background-color: azure;
+    color: rgb(5, 70, 48);
+    
+    border-radius: 5px;
+   }
+   .Box7 a {
+    text-decoration: none;  /* Removes the underline */
+    color: rgb(3, 61, 73);         /* Changes the color, example here is a shade of orange */
+}
+
+.Box7:hover {
+    background-color: lightgoldenrodyellow; /* New background color on hover */
+}
+
+   .Box8
+   {
+       width:8%;
+       height:70% ;
+       
+       margin-top: 1%;
+   
+       box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.5);
+       margin-right: 3%;
+      float:right;
+       font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+       font-style: italic;
+       background-color: azure;
+       color: rgb(5, 70, 48);
+       transition: background-color 0.3s ease;
+       border-radius: 5px;
+      }
+
+    
+    .Box8:hover {
+        background-color: lightgoldenrodyellow; /* New background color on hover */
+    }
+    
+    .Box8 a {
+        /* Styles for your link */
+        text-decoration: none; /* Removes underline from link */
+        color: currentColor; /* Inherits text color from parent */
+    }
+
+    .Boxhead
+        {
+            
+                width:30%;
+                height:70% ;
+                
+           
+                text-shadow: 5px 5px 2px rgb(72, 72, 2);
+                color: bisque;
+                margin-right: 3%;
+               float:right;
+         }
+
+       .boxray
+       {
+width: 70%;
+height: 70%;
+
+margin-left: 10%;
+float: left;
+background-image: url(Images/photo\ rm\ profile.jpeg);
+background-size: cover;
+box-shadow: 10px 10px 40px 0px rgba(0, 0, 0, 0.5);
+object-fit:scale-down;
+border-radius: 2%;
+border-style: outset;
+border-width: 1cap;
+border-color: black;
+
+       }
+
+       .aboutus
+       {
+        width: 50%;
+height: 75%;
+margin-top: 5%;
+box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.5);
+float: left;
+background-color: azure;
+color: rgb(3, 52, 36);
+border-radius: 2cap;
+padding: 1.5%;
+overflow: auto;
+       }
+       .fit
+       {
+        width: 40%;
+        height: 75%;
+        margin-top: 5%;
+       
+        float: left;
+         }
+         .raytext
+         {
+            width: 70%;
+height: 25%;
+margin-top:5% ;
+margin-left: 10%;
+float: left;
+background-image:linear-gradient() rgb(6, 47, 88), rgb(1, 7, 16);
+
+color: gold;
+box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.5);
+         }

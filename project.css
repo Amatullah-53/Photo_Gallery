@@ -1,0 +1,265 @@
+body,html
+{
+    width: 100%;
+    height: 100%;
+    background-image: url(Images/sea-2023-11-27-05-36-32-utc.jpg);
+    background-size: cover;
+}
+
+
+.Box1
+{
+    width: 100%;
+    height: 10%;
+    background-color:rgb(9, 117, 117);
+    color: bisque;
+    text-shadow: 5cap;
+    text-decoration: solid;
+  
+    
+   float:left ;
+}
+
+@keyframes slideInFromLeft {
+    from {
+        transform: translateX(-100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+.Box2
+{
+ 
+padding-top: 10px;
+    width:30%;
+    height:50%;
+   float:left;
+   animation: slideInFromLeft 2s ease-out; 
+
+
+}
+
+
+
+
+
+.Box10
+{
+    background-image: url(Images/—Pngtree—ocean\ park\ underwater\ world\ whale_3859398.png);
+background-size: cover;
+box-shadow: 10px 10px 30px 0px rgba(88, 177, 233, 0.5);
+    margin-top: 5%;
+   
+    width:25%;
+    height:50%;
+   float:left;
+   border-radius: 5cap;
+   
+}
+
+.Box10:hover {
+    transform: scale(2); /* Double the size on hover */
+}
+
+
+.Box3
+{
+    width:50%;
+    height:50%;
+    
+    float: left;
+}
+.Box4
+{
+    width:8%;
+    height:70% ;
+    box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.5);
+
+    margin-top: 1%;
+    font-family: Arial, sans-serif;
+    margin-right: 3%;
+   float:right;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-style: italic;
+    background-color: azure;
+    color: rgb(5, 70, 48);
+
+    border-radius: 5px;
+   }
+
+   .Box4 a {
+    text-decoration: none;  /* Removes the underline */
+    color: rgb(3, 61, 73);         /* Changes the color, example here is a shade of orange */
+}
+
+.Box4:hover {
+    background-color: lightgoldenrodyellow; /* New background color on hover */
+}
+
+   .Box5
+{
+    width:8%;
+    height:70% ;
+    
+    margin-top: 1%;
+    box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.5);
+    
+    margin-right: 3%;
+   float:right;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-style: italic;
+    background-color: azure;
+    color: rgb(5, 70, 48);
+
+    border-radius: 5px;
+   }
+
+   .Box5 a {
+    text-decoration: none;  /* Removes the underline */
+    color: rgb(3, 61, 73);         /* Changes the color, example here is a shade of orange */
+}
+
+.Box5:hover {
+    background-color: lightgoldenrodyellow; /* New background color on hover */
+}
+
+   .Box6
+{
+    width:8%;
+    height:70% ;
+    
+    margin-top: 1%;
+
+    box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.5);
+    margin-right: 3%;
+   float:right;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-style: italic;
+    background-color: azure;
+    color: rgb(5, 70, 48);
+
+    border-radius: 5px;
+   }
+   .Box6 a {
+    text-decoration: none;  /* Removes the underline */
+    color: rgb(3, 61, 73);         /* Changes the color, example here is a shade of orange */
+}
+
+.Box6:hover {
+    background-color: lightgoldenrodyellow; /* New background color on hover */
+}
+
+   .Box7
+{
+    width:8%;
+    height:70% ;
+    
+    margin-top: 1%;
+
+    box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.5);
+    margin-right: 3%;
+   float:right;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-style: italic;
+    background-color: azure;
+    color: rgb(5, 70, 48);
+    
+    border-radius: 5px;
+   }
+   .Box7 a {
+    text-decoration: none;  /* Removes the underline */
+    color: rgb(3, 61, 73);         /* Changes the color, example here is a shade of orange */
+}
+
+.Box7:hover {
+    background-color: lightgoldenrodyellow; /* New background color on hover */
+}
+
+   .Box8
+   {
+       width:8%;
+       height:70% ;
+       
+       margin-top: 1%;
+   
+       box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.5);
+       margin-right: 3%;
+      float:right;
+       font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+       font-style: italic;
+       background-color: azure;
+       color: rgb(5, 70, 48);
+       transition: background-color 0.3s ease;
+       border-radius: 5px;
+      }
+
+    
+    .Box8:hover {
+        background-color: lightgoldenrodyellow; /* New background color on hover */
+    }
+    
+    .Box8 a {
+        /* Styles for your link */
+        text-decoration: none; /* Removes underline from link */
+        color: currentColor; /* Inherits text color from parent */
+    }
+
+    
+      .Box9
+      {
+        width:100%;
+        height: 10%;
+        float:left;
+        box-shadow: 10px 10px 90px 10px rgb(53, 115, 94);
+        }
+
+        
+        .Boxhead
+        {
+            
+                width:30%;
+                height:70% ;
+                
+           
+                text-shadow: 5px 5px 2px rgb(72, 72, 2);
+                color: bisque;
+                margin-right: 3%;
+               float:right;
+         }
+
+         .Box3m
+         {
+            width: 45%;
+            height: 50%;
+       margin-top: 28%;
+            float: left;
+         }
+
+         .boxintern
+         {
+            width: 50%;
+            height: 20%;
+            background-color: rgb(3, 61, 73);
+            border-radius: 10px;
+            padding-top: 1px;
+            margin-left:25% ;
+            font-family: cursive;
+         }
+
+        
+        .boxintern a {
+         text-decoration: none;  /* Removes the underline */
+         color: gold;         /* Changes the color, example here is a shade of orange */
+     }
+     
+     .boxintern:hover {
+         background-color: rgb(1, 23, 20); /* New background color on hover */
+     }
+     
+
+     
+        

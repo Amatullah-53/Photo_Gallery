@@ -1,0 +1,183 @@
+body,html
+{
+    width: 100%;
+    height: 100%;
+    background-image: url(Images/great-white-shark-2023-11-27-05-10-17-utc.jpg);
+    background-size: cover;
+}
+.Box1
+{
+    width: 100%;
+    height: 10%;
+    background-color:rgb(9, 117, 117);
+    color: bisque;
+    text-shadow: 5cap;
+    text-decoration: solid;
+  
+    
+   float:left ;
+}
+
+.Box4
+{
+    width:8%;
+    height:70% ;
+    box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.5);
+
+    margin-top: 1%;
+    font-family: Arial, sans-serif;
+    margin-right: 3%;
+   float:right;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-style: italic;
+    background-color: azure;
+    color: rgb(5, 70, 48);
+
+    border-radius: 5px;
+   }
+
+   .Box4 a {
+    text-decoration: none;  /* Removes the underline */
+    color: rgb(3, 61, 73);         /* Changes the color, example here is a shade of orange */
+}
+
+.Box4:hover {
+    background-color: lightgoldenrodyellow; /* New background color on hover */
+}
+
+   .Box5
+{
+    width:8%;
+    height:70% ;
+    
+    margin-top: 1%;
+    box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.5);
+    
+    margin-right: 3%;
+   float:right;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-style: italic;
+    background-color: azure;
+    color: rgb(5, 70, 48);
+
+    border-radius: 5px;
+   }
+
+   .Box5 a {
+    text-decoration: none;  /* Removes the underline */
+    color: rgb(3, 61, 73);         /* Changes the color, example here is a shade of orange */
+}
+
+.Box5:hover {
+    background-color: lightgoldenrodyellow; /* New background color on hover */
+}
+
+   .Box6
+{
+    width:8%;
+    height:70% ;
+    
+    margin-top: 1%;
+
+    box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.5);
+    margin-right: 3%;
+   float:right;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-style: italic;
+    background-color: azure;
+    color: rgb(5, 70, 48);
+
+    border-radius: 5px;
+   }
+   .Box6 a {
+    text-decoration: none;  /* Removes the underline */
+    color: rgb(3, 61, 73);         /* Changes the color, example here is a shade of orange */
+}
+
+.Box6:hover {
+    background-color: lightgoldenrodyellow; /* New background color on hover */
+}
+
+   .Box7
+{
+    width:8%;
+    height:70% ;
+    
+    margin-top: 1%;
+
+    box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.5);
+    margin-right: 3%;
+   float:right;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-style: italic;
+    background-color: azure;
+    color: rgb(5, 70, 48);
+    
+    border-radius: 5px;
+   }
+   .Box7 a {
+    text-decoration: none;  /* Removes the underline */
+    color: rgb(3, 61, 73);         /* Changes the color, example here is a shade of orange */
+}
+
+.Box7:hover {
+    background-color: lightgoldenrodyellow; /* New background color on hover */
+}
+
+   .Box8
+   {
+       width:8%;
+       height:70% ;
+       
+       margin-top: 1%;
+   
+       box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.5);
+       margin-right: 3%;
+      float:right;
+       font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+       font-style: italic;
+       background-color: azure;
+       color: rgb(5, 70, 48);
+       transition: background-color 0.3s ease;
+       border-radius: 5px;
+      }
+
+    
+    .Box8:hover {
+        background-color: lightgoldenrodyellow; /* New background color on hover */
+    }
+    
+    .Box8 a {
+        /* Styles for your link */
+        text-decoration: none; /* Removes underline from link */
+        color: currentColor; /* Inherits text color from parent */
+    }
+
+    .Boxhead
+        {
+            
+                width:30%;
+                height:70% ;
+                
+           
+                text-shadow: 5px 5px 2px rgb(72, 72, 2);
+                color: bisque;
+                margin-right: 3%;
+               float:right;
+         }
+       .boxform
+       {
+        width:20%;
+        height:60%;
+       margin-left: 10%;
+        margin-top: 2%;
+        padding: 2%;
+        color: black;
+       
+        background-image: linear-gradient(rgb(180, 226, 241),rgb(215, 227, 237) ) ;
+        border-radius: 2cap;
+        float: left;
+        text-align: center;
+        box-shadow: 10px 10px 20px 0px whitesmoke;
+
+       }
